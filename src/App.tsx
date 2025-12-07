@@ -213,7 +213,7 @@ function App() {
             <p className="text-blue-100 mb-2">
               A full-stack auction platform, developed with React, Spring Boot, and MySQL, leveraging REST APIs.
             </p>
-            <a href="https://github.com/BasilisMilesis/MegaBid" className="text-blue-400 hover:underline hover:text-blue-300 transition-colors">Soon on GitHub</a>
+            <a href="https://github.com/BasilisMilesis/MegaBid" className="text-blue-400 hover:underline hover:text-blue-300 transition-colors">View on GitHub</a>
           </div>
         </div>
       </section>
