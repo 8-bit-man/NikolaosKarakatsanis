@@ -99,7 +99,7 @@ function App() {
         <h3 className="text-3xl font-bold mb-4 text-blue-300">About Me</h3>
         <p className="text-lg text-blue-100">
           I'm an udergraduate student at the National & Kapodistrian University of Athens, pursuing a degree in Computer Science and Telecommunications.
-          My passion lies in full-stack development, where I enjoy creating modern and intuitive web application.
+          My passion lies in full-stack development, where I enjoy creating modern and intuitive web applications.
         </p>
       </section>
 
@@ -213,7 +213,7 @@ function App() {
             <p className="text-blue-100 mb-2">
               A full-stack auction platform, developed with React, Spring Boot, and MySQL, leveraging REST APIs.
             </p>
-            <a href="#" className="text-blue-400 hover:underline hover:text-blue-300 transition-colors">Soon on GitHub</a>
+            <a href="https://github.com/BasilisMilesis/MegaBid" className="text-blue-400 hover:underline hover:text-blue-300 transition-colors">Soon on GitHub</a>
           </div>
         </div>
       </section>
